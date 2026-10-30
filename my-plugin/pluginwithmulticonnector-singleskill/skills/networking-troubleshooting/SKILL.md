@@ -1,3 +1,4 @@
+---
 name: networking-troubleshooting
 description: Diagnose everyday computer networking problems involving Wi-Fi, Ethernet, DNS, DHCP, routing, VPNs, proxies, and application connectivity. Use when a device cannot connect, a hostname fails to resolve, a service is unreachable, or network access is slow or intermittent.
 ---
