@@ -1,3 +1,4 @@
+---
 name: enterprise-app-architecture
 description: Design scalable enterprise application architecture and actionable implementation plans. Use when asked for enterprise system design, multi-tenant SaaS architecture, application modernization, scalability planning, or architecture tradeoffs and delivery roadmaps.
 ---
