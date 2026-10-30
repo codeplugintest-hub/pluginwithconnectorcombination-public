@@ -1,3 +1,4 @@
+---
 name: concept-explainer
 description: Explain concepts in plain language using structured explanations, practical examples, and carefully bounded analogies. Use when asked to explain a topic, simplify jargon, compare related ideas, or teach a concept step by step.
 ---
